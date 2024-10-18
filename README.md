@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a senrios fullstack developer @ gastronovi<br> and I'm creating my first open source project @rob18n/app
+I'm a senior fullstack developer @ gastronovi and I'm creating my first open source project @rob18n/app
 
 
 ## 🌐 Socials:
