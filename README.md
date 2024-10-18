@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working @ gastronovi<br>I'm currently creating my first open source project @rob18n/app<br>I'm currently developing an app for teams
+I'm a senrios fullstack developer @ gastronovi<br> and I'm creating my first open source project @rob18n/app
 
 
 ## 🌐 Socials:
